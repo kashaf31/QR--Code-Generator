@@ -215,7 +215,7 @@ footer {
   border-radius: 12px;
 
   background: linear-gradient(180deg, rgba(255,255,255,0.02), rgba(255,255,255,0.01));
-  width: 80%;
+  width: 90%;
 }
 
 
@@ -301,4 +301,5 @@ width: 10%;
     
   }
 }
+
 
