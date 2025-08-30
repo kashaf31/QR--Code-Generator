@@ -1,0 +1,34 @@
+# 🎨 Stylish QR Code Generator  
+
+✨ No more boring black & white QR codes!  
+Why settle for plain when your QR can be **colorful, stylish, and branded**? 🚀  
+
+This project is a **QR Code Generator** built with HTML, CSS & JavaScript that lets you create **custom QR codes** with:  
+
+✔️ Custom Colors & Gradients 🌈  
+✔️ Glassmorphism Look ✨  
+✔️ Logo Embed Option 🖼️ (place your brand logo right at the center!)  
+
+Now your QR codes don’t just work — they **look cool, creative & on-brand** 💡  
+
+---
+\
+---
+
+## 📂 Features  
+- 🎨 Generate colorful & gradient QR codes  
+- 🪟 Modern glassmorphism design  
+- 🖼️ Add your own **brand logo** in the center  
+- 📱 Fully responsive design  
+- ⚡ Fast & lightweight (pure JS)  
+
+---
+
+## 🛠️ Tech Stack  
+- **HTML5**  
+- **CSS3** (Glassmorphism, Gradients)  
+- **JavaScript (ES6+)**  
+
+---
+
+
